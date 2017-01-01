@@ -71,7 +71,4 @@ Set precision for autocalibration G30 function – calibration will complete when 
 Set distance to probe bed at for G30 function
  
 #define BED_DIAMETER 170 // mm
-
-Herbert 19-12-2016:
-Created a new fork on github to save this project online included configuration
            
