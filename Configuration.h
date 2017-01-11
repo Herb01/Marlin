@@ -10,7 +10,8 @@
 // build by the user have been successfully uploaded into firmware.
 #define STRING_VERSION_CONFIG_H __DATE__ " " __TIME__ // build date and time
 #define STRING_CONFIG_H_AUTHOR "(RichCattell, Mini Kossel)" // Who made the changes.
-// Changed config for my 3D printer HS 29-12-2016
+// Changed config for my 3D printer HS 11-01-2017
+// Compile with Arduino 1.6.4. 1.6.13 gave error
 
 // SERIAL_PORT selects which serial port should be used for communication with the host.
 // This allows the connection of wireless adapters (for instance) to non-default port pins.
